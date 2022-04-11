@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677011574050",
+    "project_id": "chatpipe-4bcc9",
+    "storage_bucket": "chatpipe-4bcc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677011574050:android:da28cd168f3467ff9a297b",
+        "android_client_info": {
+          "package_name": "com.example.chatpipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677011574050-3bf4p3j5fb1tjopl1b0os771stberqng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Ze0Qf5HDPd1l6pUd9ltBnvU4zqyFiuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677011574050-3bf4p3j5fb1tjopl1b0os771stberqng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
